@@ -666,7 +666,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #fff !important;
 }
 
 .container {
@@ -848,6 +848,7 @@ h4 {
 
 
 
+
 @media (max-width: 1024px) {
   .bloc {
     padding-left: 20px;
@@ -1024,6 +1025,7 @@ h4 {
     padding-left: 0;
     padding-right: 0;
   }
+
 
   .bloc-xxl,
   .bloc-xl,
