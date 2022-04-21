@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -790,11 +796,11 @@ h4 {
 }
 
 .tc-white {
-  color: #364577 !important;
+  color: #FFF !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #aa3904;
   color: #ffffff !important;
 }
 
@@ -839,6 +845,8 @@ h4 {
 .bg-atlanta-20made-20sign-20orange {
   background-image: url("img/atlanta%20made%20sign%20orange.webp");
 }
+
+
 
 @media (max-width: 1024px) {
   .bloc {
@@ -1091,3 +1099,5 @@ h4 {
     text-align: center;
   }
 }
+
+
