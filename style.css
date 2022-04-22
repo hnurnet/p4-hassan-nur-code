@@ -1,8 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
 }
 
 body {
@@ -661,7 +659,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .container {
@@ -793,7 +791,7 @@ h4 {
 }
 
 .tc-white {
-  color: #FFF !important;
+  color: #fff !important;
 }
 
 .btn-atomic-tangerine {
